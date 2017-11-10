@@ -12,6 +12,8 @@ function scuberGreetingForFeet(distance) {
   }
 }
 
-function ternaryCheckCity() {}
+function ternaryCheckCity() {
+
+}
 
 function switchOnCharmFromTip() {}
