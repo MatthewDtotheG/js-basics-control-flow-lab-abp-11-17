@@ -1,7 +1,7 @@
 // Write your code in this file!
 let distance;
 let city;
-let tip:
+let tip;
 
 function scuberGreetingForFeet(distance) {
   if (distance <= 400) {
